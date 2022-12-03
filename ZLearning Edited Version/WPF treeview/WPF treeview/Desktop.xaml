@@ -1,0 +1,96 @@
+﻿<Page x:Class="WPF_treeview.Desktop"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_treeview"
+      mc:Ignorable="d" 
+      Background="White"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Loaded="Page_LoadedAsync"
+      Title="Desktop">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="./Controls/ZControls.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Background="White" BorderThickness="0 0 1 0" BorderBrush="#F0F0F0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!--//Poisk Lichka//-->
+                <Grid Grid.Row="0">
+                    <TextBox x:Name="searchtxt" Height="45" Margin="13 0 10 0" KeyUp="searchtxt_KeyUp" Style="{StaticResource ZTextBox}" Tag="Qidirish"/>
+                    <Image Source="Images/search.png" Width="20" Height="20" Opacity="0.5" HorizontalAlignment="Right" Margin="0 0 25 0"/>
+                </Grid>
+                <!--//Lichkalar//-->
+                <Grid Grid.Row="1">
+                    <ListBox ScrollViewer.VerticalScrollBarVisibility="Visible"
+                             ScrollViewer.HorizontalScrollBarVisibility="Hidden" 
+                             Background="Transparent" x:Name="listbox" 
+                             MouseUp="listbox_MouseUpAsync" SelectionMode="Single" 
+                             BorderThickness="0" ItemContainerStyle="{DynamicResource ListBoxItemStyle1}">
+                        <local:PacketItem Height="100" Width="338"/>
+                        <local:PacketItem Height="100" Width="338"/>
+                    </ListBox>
+                </Grid>
+            </Grid>
+        </Border>
+        
+        <!-- Hech narsa yoq -->
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!-- About Packets-->
+            <Border Grid.Row="0" Background="White" BorderThickness="0 0 0 1" BorderBrush="#F0F0F0">
+                <Grid x:Name="PacketInfoPanel">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="50"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="10">
+                        <TextBlock x:Name="PacketNameTxt" FontFamily="poppins" FontWeight="Medium" Text="Kurs nomi" HorizontalAlignment="Left" Foreground="#333333" FontSize="14"/>
+                        <TextBlock x:Name="VideosCountTxt" Text="0 ta video" HorizontalAlignment="Left" Foreground="#696969" FontFamily="poppins" FontSize="11"/>
+                    </StackPanel>
+                    <Image Cursor="Hand" Grid.Column="1" x:Name="DeleteBtn" MouseUp ="DeleteBtn_Click" Source="Images/trash.png" Width="25" Height="25" Margin="10">
+                        <Image.Style>
+                            <Style TargetType="Image">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="False">
+                                        <Setter Property="Opacity" Value="0.4"/>
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Opacity" Value="1"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Image.Style>
+                    </Image>
+                </Grid>
+            </Border>
+            <!-- Videos -->
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Hidden">
+                <ScrollViewer.Background>
+                    <ImageBrush ImageSource="Images/Chatbackground.png" Opacity="0.4" Stretch="UniformToFill"/>
+                </ScrollViewer.Background>
+                <Grid>
+                    <Image Source="Images/dglogo.png" Opacity="0.3" Width="400" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <WrapPanel Margin="10" x:Name="VideoListPanel"/>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Page>

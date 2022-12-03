@@ -1,0 +1,60 @@
+﻿<Page x:Class="WPF_treeview.PacketDownloadForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_treeview"
+      mc:Ignorable="d" 
+      MinHeight="450"
+      MinWidth="920"
+      Loaded="Page_LoadedAsync"
+      d:DesignHeight="450" d:DesignWidth="920"
+      Title="PacketDownloadForm">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Controls/ZControls.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid Background="#EBEEF2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Image Source="Images/dglogo.png" Width="Auto" Height="70" Margin="50 0 10 0" HorizontalAlignment="Left"/>
+            <DockPanel>
+                <TextBox Background="White" x:Name="searchTxt" KeyUp="searchTxt_KeyUp" Style="{StaticResource ZTextBox}" Height="30" HorizontalAlignment="Left" Width="520" Tag="Qidiruv"/>
+                <DockPanel Style="{StaticResource WebButton}" x:Name="SearchBtn" MouseUp="SearchBtn_MouseUp"  Height="30" Width="35" HorizontalAlignment="Left" Cursor="Hand">
+                    <Image Source="Images/search.png" Stretch="Fill" Width="17" Height="17"/>
+                </DockPanel>
+                <DockPanel Style="{StaticResource WebButton}" x:Name="RefreshBtn" MouseUp="RefreshBtn_MouseUp"  Height="30" Width="35" HorizontalAlignment="Left" Cursor="Hand">
+                    <Image Source="Images/refresh.png" Stretch="Fill" Width="17" Height="17"/>
+                </DockPanel>
+            </DockPanel>
+        </DockPanel>
+        <!-- Market Menu -->
+        <DockPanel x:Name="MenuDockPanel" Margin="50 0 50 0" Grid.Row="1"  Background="White">
+            <DockPanel.Effect>
+                <DropShadowEffect Color="Silver" Opacity="0.3"/>
+            </DockPanel.Effect>
+
+            <TextBlock x:Name="BtnUmumiy" MouseUp="BtnUmumiy_MouseUp" Text="Umumiy" Foreground="#107EFF" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnCPlusbtn" MouseUp="BtnCPlusbtn_MouseUp" Text="C++" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnCSharp" MouseUp="BtnCSharp_MouseUp" Text="C#" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnJava" MouseUp="BtnJava_MouseUp" Text="Java" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnPython" MouseUp="BtnPython_MouseUp" Text="Python" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnJS" MouseUp="BtnJS_MouseUp" Text="Java Script" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnPhp" MouseUp="BtnPhp_MouseUp" Text="PHP" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnAndroid" MouseUp="BtnAndroid_MouseUp" Text="Android" Style="{StaticResource TextBlockAnimation}"/>
+            <TextBlock x:Name="BtnArduino" MouseUp="BtnArduino_MouseUp" Text="Robototehnika" Style="{StaticResource TextBlockAnimation}" HorizontalAlignment="Left"/>
+        </DockPanel>
+        
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Hidden">
+            <WrapPanel x:Name="PacketItemsPanel" Margin="40 10 40 10"/>
+        </ScrollViewer>
+    </Grid>
+</Page>

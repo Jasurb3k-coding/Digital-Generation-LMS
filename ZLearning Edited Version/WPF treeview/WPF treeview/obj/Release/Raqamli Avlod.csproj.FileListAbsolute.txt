@@ -1,0 +1,647 @@
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Raqamli Avlod.exe.config
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Raqamli Avlod.exe
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Raqamli Avlod.pdb
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\FireSharp.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\libvideo.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\App.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.AppContext.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Console.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.IO.Compression.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.IO.FileSystem.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Http.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Net.Sockets.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Payment.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\Contest.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+C:\Users\User\Desktop\WPF treeview\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+C:\Users\Professional\Desktop\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+E:\Karochis kirma\Muhammadkarim\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csprojAssemblyReference.cache
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csprojAssemblyReference.cache
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+D:\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+C:\Users\acer\Desktop\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.config
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.application
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.exe
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\ZLearning Desktop.pdb
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\FireSharp.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\libvideo.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.dll
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\AngleSharp.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\Telegram.Bot.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\bin\Debug\YoutubeExplode.xml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.App.config
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Controls\ZControls.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\App.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_Content.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.cache
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop_MarkupCompile.lref
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\AuthorForm.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Contest.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Desktop.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\DownloadProblemItem.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\LoginForm.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MainWindow.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageDownloadItem.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\MessageForm.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadForm.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketDownloadItem.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PacketItemControl.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Payment.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\PlayVideo.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZMessageBox.baml
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.g.resources
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli_Avlod.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe.manifest
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.application
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csproj.CopyComplete
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.exe
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\ZLearning Desktop.pdb
+C:\Users\User\Desktop\Projects\Raqamli Avlod\Jasur\ZLearning Edited Version\WPF treeview\WPF treeview\obj\Release\Raqamli Avlod.csprojAssemblyReference.cache

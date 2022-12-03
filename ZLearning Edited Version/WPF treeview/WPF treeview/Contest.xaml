@@ -1,0 +1,271 @@
+﻿<Page x:Class="Raqamli_Avlod.Contest"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Raqamli_Avlod"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      Loaded="Page_Loaded"
+      Title="Contest">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Controls/ZControls.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid Background="#EBEEF2">
+        <TabControl Background="Transparent" FontFamily="poppins" FontWeight="Regular" BorderThickness="0">
+            <TabControl.Resources>
+                <Style TargetType="TabPanel">
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="TabItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TabItem">
+                                <Border x:Name="Border" Width="220" Height="30" CornerRadius="4 4 0 0">
+                                    <ContentPresenter x:Name="ContentSite"
+                                    VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"
+                                    ContentSource="Header"
+                                    Margin="10 2"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="Transparent"/>
+                                        <Setter TargetName="Border" Property="BorderThickness" Value="0 0 0 2"/>
+                                        <Setter TargetName="Border" Property="BorderBrush" Value="black"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="False">
+                                        <Setter TargetName="Border" Property="Background" Value="transparent"/>
+                                        <Setter TargetName="Border" Property="BorderThickness" Value="0 0 0 0"/>
+                                        <Setter TargetName="Border" Property="BorderBrush" Value="Transparent"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+            <TabItem Header="Masalalar">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="400"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Margin="10 10 10 0">
+                            <Border CornerRadius="15" Background="White"/>
+                            <Border  CornerRadius="15">
+                                
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="30"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    
+                                    <DockPanel Grid.Row="0">
+                                        <TextBlock Text="Masala matni" Foreground="Black" FontWeight="DemiBold" VerticalAlignment="Center" Margin="10"/>
+                                        <DockPanel  HorizontalAlignment="Right">
+                                            <ComboBox x:Name="ProblemCombobox" Opacity="0.4"  DropDownClosed="ProblemCombobox_DropDownClosed" Background="DodgerBlue" Width="100" Height="22" Margin="10 0 10 0"/>
+                                            <DockPanel x:Name="RefreshOfflineBtn" MouseUp="RefreshOfflineBtn_MouseUp" HorizontalAlignment="Right" Style="{StaticResource WebButton}" Background="Transparent">
+                                                <Image Source="Images/refresh.png" Width="15" Height="15"/>
+                                                <TextBlock Text="Yangilash" VerticalAlignment="Center" Margin="5 0 10 0" Foreground="Black"/>
+                                            </DockPanel>
+                                            <DockPanel x:Name="CopyProblemTextBtn" MouseUp="CopyProblemTextBtn_MouseUp" Style="{StaticResource WebButton}" Background="Transparent">
+                                                <DockPanel.ToolTip>
+                                                    <ToolTip Background="Transparent" BorderThickness="0" Height="50" x:Name="SharxToolTip1" Opacity="0" Placement="MousePoint" StaysOpen="True" IsOpen="False" >
+                                                        <Border Background="#0E1621" CornerRadius="10">
+                                                            <StackPanel>
+                                                                <TextBlock Text="Nusxalab olindi!" Foreground="Black"/>
+                                                            </StackPanel>
+                                                        </Border>
+                                                    </ToolTip>
+                                                </DockPanel.ToolTip>
+                                                <Image Source="Images/copy.png" Width="15" Height="15"/>
+                                                <TextBlock Text="Ko'chirish" VerticalAlignment="Center" Margin="5 10 10 10" Foreground="Black"/>
+                                            </DockPanel>
+                                        </DockPanel>
+                                    </DockPanel>
+                                    
+                                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Hidden">
+                                        <TextBlock  x:Name="ProblemTextTxt" FontSize="14" Foreground="Teal" TextWrapping="Wrap" Padding="5"/>
+                                    </ScrollViewer>
+
+                                </Grid>
+                            </Border>
+                        </Grid>
+                        <Grid Grid.Row="1" Margin="10 10 10 10">
+                            <Border Background="White" CornerRadius="15"/>
+                            <Border CornerRadius="15">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="30"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <TextBlock Text="Masala kodi" Foreground="Black" FontWeight="DemiBold" VerticalAlignment="Center" Margin="10"/>
+                                        <DockPanel HorizontalAlignment="Right">
+                                            <ComboBox x:Name="LangCombobox" Opacity="0.4" SelectedIndex="0" Width="100" Height="22" Margin="10 0 10 0">
+                                                <ComboBoxItem Content="C++"/>
+                                                <ComboBoxItem Content="Java"/>
+                                                <ComboBoxItem Content="Python"/>
+                                            </ComboBox>
+                                            <DockPanel x:Name="CompileCodeBtn" MouseUp="CompileCodeBtn_MouseUp" Style="{StaticResource WebButton}" Margin="0 0 0 0">
+                                                <Image Source="Images/play-button.png" Height="14" Width="14" Margin="10 0 5 0"/>
+                                                <TextBlock Text="Tekshirish" Foreground="Black" VerticalAlignment="Center"/>
+                                            </DockPanel>
+                                            <DockPanel x:Name="LoadFileBtn" MouseUp="LoadFileBtn_MouseUp" Style="{StaticResource WebButton}" Margin="0 0 10 0">
+                                                <Image Source="Images/load.png" Height="15" Width="15" Margin="10 0 5 0"/>
+                                                <TextBlock Text="Fayl yuklash" Foreground="Black" VerticalAlignment="Center"/>
+                                            </DockPanel>
+                                            <DockPanel x:Name="CopyCodeTextBtn" MouseUp="CopyCodeTextBtn_MouseUp" HorizontalAlignment="Right" Style="{StaticResource WebButton}" Background="Transparent">
+                                                <DockPanel.ToolTip>
+                                                    <ToolTip Background="Transparent" BorderThickness="0" Height="50" x:Name="SharxToolTip2" Opacity="0" Placement="MousePoint" StaysOpen="True" IsOpen="False" >
+                                                        <Border Background="#0E1621" CornerRadius="10">
+                                                            <StackPanel>
+                                                                <TextBlock Text="Nusxalab olindi!" Foreground="Black"/>
+                                                            </StackPanel>
+                                                        </Border>
+                                                    </ToolTip>
+                                                </DockPanel.ToolTip>
+                                                <Image Source="Images/copy.png" Width="15" Height="15"/>
+                                                <TextBlock Text="Ko'chirish" VerticalAlignment="Center" Margin="5 10 10 10" Foreground="Black"/>
+                                            </DockPanel>
+                                        </DockPanel>
+                                    </Grid>
+                                    <TextBox x:Name="CodeTxt" Background="Transparent" Text="//Bu yerga kodni yozing" Foreground="Teal" BorderThickness="0" FontSize="14" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" FontFamily="consolas" Grid.Row="1" Padding="5"/>
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </Grid>
+                    
+                    <Grid Grid.Column="1" Margin="0 10 10 10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="100"/>
+                        </Grid.RowDefinitions>
+                        <DockPanel Grid.Row="0" Background="#107EFF">
+                            <TextBlock Text="Masala yuklash (online)" FontWeight="DemiBold" Foreground="Snow" VerticalAlignment="Center" Margin="10 0 10 0"/>
+                            <DockPanel x:Name="RefreshBtn" MouseUp="RefreshBtn_MouseUp" HorizontalAlignment="Right" Style="{StaticResource WebButton}" Background="Transparent">
+                                <Image Source="Images/refresh.png" Width="15" Height="15"/>
+                                <TextBlock Text="Yangilash" VerticalAlignment="Center" Margin="5 0 10 0" Foreground="Snow"/>
+                            </DockPanel>
+                        </DockPanel>
+                        <ScrollViewer Grid.Row="1" Background="White" VerticalScrollBarVisibility="Hidden">
+                            <StackPanel x:Name="ProblemItemsPanel"/>
+                        </ScrollViewer>
+                        <Grid Grid.Row="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="5"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <DockPanel Background="#107EFF"/>
+                            <Grid Grid.Row="1">
+                                <Grid.Background>
+                                    <LinearGradientBrush StartPoint="0 0" EndPoint="1 1">
+                                        <GradientStop Color="White" Offset="0.5"/>
+                                        <GradientStop Color="#107EFF" Offset="0.5"/>
+                                    </LinearGradientBrush>
+                                </Grid.Background>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="SolvedCountTxt" Grid.Column="0" Text="0/0" VerticalAlignment="Center" Foreground="#107EFF" HorizontalAlignment="Center" FontFamily="stencil" FontSize="25"/>
+                                <TextBlock x:Name="SolvedProcentTxt" Grid.Column="1" Text="0%" VerticalAlignment="Center" Foreground="Snow" HorizontalAlignment="Center" FontFamily="stencil" FontSize="25"/>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Chempionat tashkillashtirish" Foreground="Black">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="350"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0" Margin="10" Background="White">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Background="#107EFF">
+                            <TextBlock Foreground="White" Text="Chempionat parametrlari" FontWeight="DemiBold" VerticalAlignment="Center" Margin="10 0 0 0"/>
+                            <DockPanel x:Name="StartContest" MouseUp="StartContest_MouseUp" HorizontalAlignment="Right" Style="{StaticResource WebButton}" Background="#242F3D" Height="30" Width="90" Opacity="0.2">
+                                <Image Source="Images/play-button.png" Height="14" Width="14" Margin="10 0 5 0"/>
+                                <TextBlock Text="Boshlash" Foreground="White" VerticalAlignment="Center"/>
+                            </DockPanel>
+                        </Grid>
+
+                        <Grid Grid.Row="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="235"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="241*"/>
+                                    <ColumnDefinition Width="89*"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.ColumnSpan="2">
+                                    <TextBlock Margin="17 10 17 0" Foreground="Black" TextWrapping="Wrap" Text="Siz bu yerga chempionat o'tkaziladigan telegram bot tokenini kiriting! Yangi bot ochish uchun BotFather botidan foydalananing"/>
+                                    <TextBox x:Name="TokenTxt" Style="{StaticResource ZTextBox}" Text="943645963:AAF_Svts1z13kGmz0goNFzokU1Wy3mTduL4" Margin="10" Width="300"/>
+                                    <StackPanel >
+                                        <TextBlock Margin="17 10 17 0" Foreground="Black" TextWrapping="Wrap" Text="Chempionat vaqtini belgilang (minutda)"/>
+                                        <TextBox Style="{StaticResource ZTextBox}" Text="Vaqt" Margin="10" Width="300"/>
+                                    </StackPanel>
+                                    <TextBlock Margin="17 10 17 0" Foreground="Silver" TextWrapping="Wrap" Text="Chempionat uchun masalalar tanlang!"/>
+                                </StackPanel>
+                            </Grid>
+                            <ListBox x:Name="ProblemsListBox" Grid.Row="1" Margin="10 0 10 10" ScrollViewer.VerticalScrollBarVisibility="Hidden" ItemContainerStyle="{StaticResource ListBoxItemStyle1}" BorderThickness="0" Background="Transparent"/>
+                        </Grid>
+                    </Grid>
+
+                    <Grid Grid.Column="2" Margin="0 10 10 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Grid.Row="0" Background="White">
+                            <Grid Height="30" Background="#107EFF">
+                                <TextBlock Text="Statistika" HorizontalAlignment="Left" FontWeight="DemiBold" VerticalAlignment="Center" Foreground="White" Margin="10 0 0 0"/>
+                                <TextBlock Text="0 ta qatnashuvchi" HorizontalAlignment="Right" FontWeight="DemiBold" VerticalAlignment="Center" Foreground="White" Margin="10 0 10 0"/>
+                            </Grid>
+                            <DataGrid Margin="10 10 10 0" Background="{StaticResource DataGridBackgroud}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Header="O'rin"/>
+                                    <DataGridTextColumn Header="First Name Last Name"/>
+                                    <DataGridTextColumn Header="Username"/>
+                                    <DataGridTextColumn Header="Yechilgan masalalar"/>
+                                    <DataGridTextColumn Header="Soni"/>
+                                </DataGrid.Columns>
+                                <DataGrid.RowBackground>
+                                    <SolidColorBrush Color="Black"/>
+                                </DataGrid.RowBackground>
+                            </DataGrid>
+                        </StackPanel>
+                        <StackPanel Grid.Row="1" Background="White" Margin="0 10 0 0">
+                            <Grid Height="30" Background="#107EFF">
+                                <TextBlock Text="Jarayon" FontWeight="DemiBold" VerticalAlignment="Center" Margin="10 0 0 0" Foreground="White"/>
+                            </Grid>
+                            <ListBox x:Name="ActionsListbox" Background="Transparent" Foreground="Snow" BorderThickness="0" Margin="5 5 5 0" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+                                <ListBoxItem Content="asd"/>
+                                <ListBoxItem Content="asd"/>
+                            </ListBox>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>
